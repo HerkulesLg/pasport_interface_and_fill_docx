@@ -1,24 +1,36 @@
-Переменные для разметки файла для редактирования:
-phone
-email
-surname
-name
-middlename
-sex
-date_of_birth
-town_of_birth
-citizenship
-assport_series
-passport_number
-passport_office
-passport_date
-division_code
-region
-district
-town
-locality
-street
-house
-corpus
-flat
-address_index
+Данная программа позволяет работать с файлами docx
+Она позволяет создавать новые файлы docx с информацией введенной в интерфейс
+Либо в размеченный файл вставлять данные из интерфейса
+
+Размеченный файл - заранее созданный файл docx с необходимым текстом и вставленными переменными(из списка переменных), которые впоследствии будут заменены
+Шаблон:
+Привет я surname name midlename!
+Результат:
+Привет я Иванов Иван Иванович!
+
+Как итог - эта программа может стать отличным интерфейсом для того, чтобы заполнять размеченные шаблоны документов docx вводимыми в интерфейс паспортными данными.
+
+Переменные для размечаемого файла docx:
+phone - телефон
+email - электронная почта
+surname - фамилия
+name - имя
+middlename - отчество
+sex - пол
+date_of_birth - дата рождения
+town_of_birth - место рождения
+citizenship - гражданство
+passport_series - серия паспорта
+passport_number - номер паспорта
+passport_office - кем выдан паспорт
+passport_date - дата выдачи паспорта
+division_code - код подразделения
+region - регион
+district - район
+town - город
+locality - населенный пункт
+street - улица
+house - дом
+corpus - корпус/строение
+flat - квартира
+address_index - индекс почты
