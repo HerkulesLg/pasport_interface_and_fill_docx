@@ -1,0 +1,24 @@
+Переменные для разметки файла для редактирования:
+phone
+email
+surname
+name
+middlename
+sex
+date_of_birth
+town_of_birth
+citizenship
+assport_series
+passport_number
+passport_office
+passport_date
+division_code
+region
+district
+town
+locality
+street
+house
+corpus
+flat
+address_index
